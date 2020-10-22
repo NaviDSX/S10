@@ -1,5 +1,27 @@
 # Session 12
 
+
+## Questions in S12-Assignment-Solution:
+
+### What is your final accuracy? 
+55.42%
+
+### Share the Github link to your ResNet-Tiny-ImageNet code. All the logs must be visible.
+ [S12_Part1.ipynb](S12_Part1.ipynb)
+ 
+### Describe the contents of the JSON file in detail. You need to explain each element in detail. 
+ [JSON File Explained](JSON.md)
+ 
+### Share the link to your Github file where you have calculated the best K clusters for your 50 dog dataset. 
+ [S12_Part2.ipynb](S12_Part2.ipynb)
+ 
+### Share the link to your hardhat, vest, mask and boots Images Folder on GitHub
+ [Images](images)
+ 
+### Share the link to your JSON file on GitHub
+ [JSON File](S12_New.json)
+
+
 ## Part 1 - ResNet18 on Tiny ImageNet Dataset
 
 
