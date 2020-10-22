@@ -12,7 +12,7 @@
 ### Describe the contents of the JSON file in detail. You need to explain each element in detail. 
  [JSON File Explained](JSON.md)
  
-### Share the link to your Github file where you have calculated the best K clusters for your 50 dog dataset. 
+### Share the link to your Github file where you have calculated the best K clusters for your dataset. 
  [S12_Part2.ipynb](S12_Part2.ipynb)
  
 ### Share the link to your hardhat, vest, mask and boots Images Folder on GitHub
