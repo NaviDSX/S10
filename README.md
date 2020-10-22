@@ -10,7 +10,7 @@
  [S12_Part1.ipynb](S12_Part1.ipynb)
  
 ### Describe the contents of the JSON file in detail. You need to explain each element in detail. 
- [JSON File Explained](JSON.md)
+ [JSON Explained](JSON Explained)
  
 ### Share the link to your Github file where you have calculated the best K clusters for your dataset. 
  [S12_Part2.ipynb](S12_Part2.ipynb)
